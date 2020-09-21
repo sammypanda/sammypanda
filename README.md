@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media1.tenor.com/images/2ef78ab2f3e2acbf077388e26d3bc2da/tenor.gif?itemid=14815980) 
 
 <!--
 **Samdvich/samdvich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
