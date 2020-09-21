@@ -1,7 +1,5 @@
-![]() 
 <p align="center"><b><i>> hiya there!</i></b>
-<img align="left" width="490" height="auto" src="https://media1.tenor.com/images/2ef78ab2f3e2acbf077388e26d3bc2da/tenor.gif?itemid=14815980">
-<hr>
+<img align="left" width="500" height="auto" src="https://media1.tenor.com/images/2ef78ab2f3e2acbf077388e26d3bc2da/tenor.gif?itemid=14815980">
 <h6 align="center">im sammy, welcome to my github</h6>
 
 <!--
@@ -18,9 +16,3 @@ You uncovered some more info! Well, now that you're here, these are some things 
 -->
 
 <hr>
-
-| [CompUI](shaiparkshs.ipto.com.au/11%20Digital%20Solutions/spage65/CompUI/)   | [samdvich.github.io](samdvich.github.io)                                     | [CodeRacer](shaiparkshs.ipto.com.au/11%20Digital%20Solutions/spage65/CodeRacer) |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| <sup>Schools with team<br>competitive events.</sup> | <sup>Comfy home, <br>experiments, learning,<br>pixel art and all other</sup> | <sup>First project around<br> basic web dev<br> knowledge.</sup>                |
-
-</div>
