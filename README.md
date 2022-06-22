@@ -1,5 +1,5 @@
 <p align="center"><b><i>> hiya there!</i></b>
-<img align="left" width="500" height="auto" src="https://media1.tenor.com/images/2ef78ab2f3e2acbf077388e26d3bc2da/tenor.gif?itemid=14815980">
+<img align="left" width="35%" height="auto" src="https://media1.tenor.com/images/2ef78ab2f3e2acbf077388e26d3bc2da/tenor.gif?itemid=14815980">
 <h6 align="center">im sammy, welcome to my github</h6>
 
 <!--
@@ -14,5 +14,3 @@ You uncovered some more info! Well, now that you're here, these are some things 
 😄 Pronouns: **Boy;Male**<br>
 ⚡ Fun fact: **I got top of my digital solutions class all through high school!**<br>
 -->
-
-<hr>
